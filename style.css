@@ -1,0 +1,15 @@
+* {
+    background-color: #0072b1;
+}
+
+img {
+    height: 949.4px;
+    width: 1910px;
+}
+
+@media (max-width:746px) {
+    img {
+        height: 797px;
+        width: 382px;
+    }
+}
